@@ -19,6 +19,7 @@ def registrar_habitos():
         Lista con los habitos ingresados por el usuario.
         
     '''
+    
     habitos = []
     while True:
         actividad = input("ingrese una actividad. Si no hay mas ingrese salir: ")
@@ -46,6 +47,7 @@ def analizar_habitos(habitos):
         Diccionrio con un conteo de cuantas veces aparece cada habito en la lista.
         
     '''
+
     cant_actividad = {}
     
     for habito in habitos:
@@ -58,5 +60,4 @@ def analizar_habitos(habitos):
     
 variable = analizar_habitos(actividad_usuario)
 print(variable)
-
 
