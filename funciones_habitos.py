@@ -28,8 +28,6 @@ def registrar_habitos():
         habitos.append(actividad)
     return habitos
 
-actividad_usuario = registrar_habitos()
-print (actividad_usuario)
 
 
 def analizar_habitos(habitos):
@@ -58,6 +56,4 @@ def analizar_habitos(habitos):
     return cant_actividad
  
     
-variable = analizar_habitos(actividad_usuario)
-print(variable)
 
