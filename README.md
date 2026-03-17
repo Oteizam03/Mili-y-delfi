@@ -1,6 +1,6 @@
 
 Este es un repositorio de Milagros Oteiza y de Delfina Ferrero.
- 2 algumnas de la carrera de Ciencias del Comportamiento. 
+ 2 alumnas de la carrera de Ciencias del Comportamiento. 
 Es la ejercitacion de la clase 2
 
 hemos realizado dos archivos.
